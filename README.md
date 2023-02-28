@@ -66,6 +66,6 @@ Here are some ideas to get you started:
 ### 🤝🏻 &nbsp;Connect with Me
 
 
-<a href="https://www.linkedin.com/in/byron-tze-min-kweh-039a4515b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jaggehn%20Sivabalan-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/byron-tze-min-kweh-039a4515b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Byron%20Kweh-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/byronkweh/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-jaggehn__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/byronkweh/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-byronkweh-blue?style=flat-square&logo=instagram"></a>
