@@ -67,7 +67,9 @@ Here are some ideas to get you started:
 ### ⚙️ &nbsp;GitHub Analytics
 
 ### 📈 GitHub Activity Graph:
-[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ByronKweh&theme=github-compact)](https://github.com/ByronKweh/github-readme-activity-graph)
+[![Byron's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ByronKweh&theme=github-compact)](https://github.com/ByronKweh/github-readme-activity-graph)
+
+![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
