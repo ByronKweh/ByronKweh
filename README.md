@@ -66,9 +66,8 @@ Here are some ideas to get you started:
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-![Byron's Stats](https://github-readme-stats.vercel.app/api?username=byronkweh&show_icons=true&theme=prussian)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byronkweh&theme=prussian)](https://github.com/anuraghazra/github-readme-stats)
+### 📈 GitHub Activity Graph:
+[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ByronKweh&theme=github-compact)](https://github.com/ByronKweh/github-readme-activity-graph)
 
 ---
 
