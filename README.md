@@ -69,6 +69,11 @@ Here are some ideas to get you started:
 ### 📈 GitHub Activity Graph:
 [![Byron's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ByronKweh&theme=github-compact)](https://github.com/ByronKweh/github-readme-activity-graph)
 
+ .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=ByronKweh&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ByronKweh&theme=radical&layout=compact) |
+
+
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
 ---
