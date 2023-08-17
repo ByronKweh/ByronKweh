@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 ### ⚙️ &nbsp;GitHub Analytics
 
 ### 📈 GitHub Activity Graph:
-[![Byron's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ByronKweh&theme=github-compact)](https://github.com/ByronKweh/github-readme-activity-graph)
+[![Byrons's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ByronKweh)](https://github.com/ByronKweh/github-readme-activity-graph)
 
  .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
