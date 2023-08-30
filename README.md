@@ -66,6 +66,8 @@ Here are some ideas to get you started:
 
 ### ⚙️ &nbsp;GitHub Analytics
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ByronKweh&count_private=true&theme=radical" alt="Jas-Script" />
+
 ### 📈 GitHub Activity Graph:
 [![Byrons's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ByronKweh)](https://github.com/ByronKweh/github-readme-activity-graph)
 
