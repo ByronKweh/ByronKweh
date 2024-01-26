@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 ---
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=byronkweh)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 - 🔭 I’m currently working on becoming a 10x developer
